@@ -1,0 +1,2 @@
+# CoreApp
+Core application repository.
